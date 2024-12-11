@@ -1,0 +1,7 @@
+* SPICE3 file created from layout_test.ext - technology: scmos
+
+.option scale=0.09u
+
+C0 m1_n15_1# w_n4_0# 0.08fF
+C1 m1_n15_1# 0 0.32fF **FLOATING
+C2 w_n4_0# 0 0.32fF **FLOATING

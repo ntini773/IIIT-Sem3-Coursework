@@ -1,0 +1,14 @@
+magic
+tech scmos
+timestamp 1724931190
+<< nwell >>
+rect -4 0 15 17
+<< pdiffusion >>
+rect 2 6 9 11
+<< metal1 >>
+rect -15 21 -11 33
+rect -15 17 28 21
+rect -15 5 -11 17
+rect 24 5 28 17
+rect -15 1 28 5
+<< end >>
